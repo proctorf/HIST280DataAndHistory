@@ -21,7 +21,7 @@ Late informal assignments will not be accepted.
 ## Academic Integrity: 
 ### Please do your own work.  Plagiarism will not be permitted in any form.<br>  
 
-<img src="integrity.jpg" alt="Academic Integrity" style="float:right;max-width:40%;height:auto;margin:0 0 1em 1.5em;" />
+<img src="integrity.jpg" alt="Academic Integrity" style="float:right;max-width:40%;height:auto;margin:0 0 1em 1.5em;">
 
 The students and faculty of Denison University are committed to academic integrity and will not tolerate any violation of this principle.  Academic honesty, the cornerstone of teaching and learning, lays the foundation for lifelong integrity.
 
