@@ -1,4 +1,4 @@
-<img src="brooks.png" alt="The Brooks" style="max-width:100%;width:100%;height:auto;display:block;margin:0 auto 1em auto;" />
+<img src="brooks.png" alt="The Brooks" style="max-width:100%;height:auto;display:block;margin-bottom:1em;" />
 
 [Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
 
@@ -19,8 +19,6 @@ Preferred pronouns: he/him/his<br>
 
 ## Course Description:
 
-<img src="integrity.jpg" alt="Academic Integrity" style="float:right;max-width:40%;height:auto;margin:0 0 1em 1.5em;" />
-
 "Data in History" asks four core questions: What counts as data? Why do people trust numbers? How has that trust shifted over time? And how can we use data \- including AI-assisted methods \- to study the past? This course combines hands-on learning in coding, historical thinking, and AI-assisted analysis with big historical datasets, and considers how numeric thinking has come to organize modern life. Using "big-data" approaches to the history of African slavery in the Americas — drawing on sources like ship manifests, censuses, and plantation records — we'll examine what these sources reveal and conceal about the past, while weighing the ethical and methodological limits of working with such evidence, including the new possibilities and risks that AI tools bring to historical analysis.
 
 By the end of this class, hopefully you will have developed a marketable set of skills to harness data and the critical awareness to do so ethically.
@@ -34,7 +32,7 @@ This course is a hands-on, experimental, learn-as-we-go experience that introduc
 * **History** \- understand data as a historical artifact (or a historical construction) and its role within different historical topics. To explore how humanities understand data and knowledge creation.
 * **Data Literacy** \- evaluate data within its larger cultural, social, and political contexts.
 
-## OFFICE HOURS:
+## Office Hours:
 The purpose of office hours is to make myself available to my students to discuss our class, their assignments, and perhaps even their larger Denison experience.  I am here and ready to help/talk/listen.
 
 I would strongly encourage you to take advantage of office hours, or to set up an appointment.  I can promise that doing so will help you be your most effective and successful in my course.
@@ -43,6 +41,9 @@ I look forward to talking with you all often. To schedule an appointment outside
 ## Readings:
 
 *All assigned readings will be available from the Course Schedule in Canvas for download and printing.  Please bring printed copies of all assigned readings to class on the day for which they appear on the syllabus.*
+
+## DenAI
+Denison will provide access to various LLM models through DenAI ([denai.denison.edu](denai.denison.edu)). We will really on the Claude Models - Sonnet and Opus (for big projects). To maintain your access to DenAI you will need to complete an AI training offered by the University. More information to follow.
 
 ## About The Course:
 
