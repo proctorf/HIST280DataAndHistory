@@ -4,15 +4,13 @@
 
 # Data and History — Full Schedule with Citations
 
-*Titles are wrapped in `<a href="" target="_blank">` tags with empty `href` attributes — add your library-specific URLs. Items marked ⚑ need a citation check on your end (see notes).*
-
 ---
 
 **Thu Aug 27 — Orientation**
 No readings.
 
 **Tue Sep 1 — What is History? What is Data?**
-- John H. Arnold, [*History: A Very Short Introduction*](Readings/JohnArnold_Ch1.pdf) (Oxford: Oxford University Press, 2000), 1-14 (ch. 1).
+- John H. Arnold, [*History: A Very Short Introduction*](Readings/JohnArnold_CH1.pdf) (Oxford: Oxford University Press, 2000), 1-14 (ch. 1).
 - Catherine D'Ignazio and Lauren F. Klein, <a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/11805.003.0008" target="_blank">"The Numbers Don't Speak for Themselves,"</a> ch. 6 in *Data Feminism* (Cambridge, MA: MIT Press, 2020).
 - Lisa Gitelman and Virginia Jackson, <a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0002" target="_blank">"Introduction,"</a> in *"Raw Data" Is an Oxymoron*, ed. Lisa Gitelman (Cambridge, MA: MIT Press, 2013), 1–14.
 
