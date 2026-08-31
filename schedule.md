@@ -15,8 +15,11 @@ No readings.
 - Lisa Gitelman and Virginia Jackson, <a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0002" target="_blank">"Introduction,"</a> in *"Raw Data" Is an Oxymoron*, ed. Lisa Gitelman (Cambridge, MA: MIT Press, 2013), 1–14.
 
 **Thu Sep 3 — The Time on the Cross Debate**
-- Robert William Fogel and Stanley L. Engerman, <a href="" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), selections.
-- Herbert G. Gutman, <a href="" target="_blank">*Slavery and the Numbers Game: A Critique of Time on the Cross*</a> (Urbana: University of Illinois Press, 1975).
+- Robert William Fogel and Stanley L. Engerman, <a href="Readings/FogelEngermanCh4.pdf" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), pgs 3-13, 107-157.
+- Herbert G. Gutman, "<a href="Readings/GutmanTCReview.pdf" target="_blank">Review: Time on the Cross: The Economics of American Negro Slavery"</a>", *Journal of Negro History* 60:1 (1975), 54-93.
+- 
+- {You are NOT REQUIRED to print or read this, but I wanted to give you a copy of the Methods/Evidence discussion from the companion volume to the orignal book}.
+- Robert Williams Fogel and Stanley Engerman, <a href="Readings/FogelEngermanSupplement.pdf" target="_blank">"Notes to Ch 4" in *Time on the Cross: Evidence and Methods - A Supplement* (Little, Brown and Co, 1975), 87-127.
 
 **Tue Sep 8 — In-class installs**
 Robert Butts, ETS, assisting. No reading.
