@@ -15,6 +15,8 @@ No readings.
 - Lisa Gitelman and Virginia Jackson, <a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0002" target="_blank">"Introduction,"</a> in *"Raw Data" Is an Oxymoron*, ed. Lisa Gitelman (Cambridge, MA: MIT Press, 2013), 1–14.
 
 **Thu Sep 3 — The Time on the Cross Debate**
+- Optional: <a href="https://www.youtube.com/watch?v=Ajn9g5Gsv98" target="_blank">Watch Crash Course US History: Slavery</a> (14:24 min.) for a “big-picture” introduction to the topic of slavery in US history
+  
 - Robert William Fogel and Stanley L. Engerman, <a href="Readings/FogelEngermanCh4.pdf" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), pgs 3-13, 107-157.
 - Herbert G. Gutman, "<a href="Readings/GutmanTCReview.pdf" target="_blank">Review: Time on the Cross: The Economics of American Negro Slavery"</a>", *Journal of Negro History* 60:1 (1975), 54-93.
 - 
