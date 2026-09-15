@@ -32,16 +32,23 @@ Robert Butts, ETS, assisting. No reading.
 - John E. Murray, Alan L. Olmstead, Trevon D. Logan, Jonathan B. Pritchett, et al., <a href="https://dx.doi.org/10.1017/S0022050715000996" target="_blank">"[Book Review Forum] The Half Has Never Been Told: Slavery and the Making of American Capitalism, by Edward E. Baptist,"</a> *The Journal of Economic History* 75, no. 3 (September 2015): 919–931.
 
 **Tue Sep 15 — Python basics** *(lab)*
-- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html" target="_blank">Anatomy of a Python Script</a> and
-<a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html" target="_blank">"Python Basics I: Variables"</a>, in *Introduction to Cultural Analytics & Python*, online textbook. 
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html" target="_blank">Anatomy of a Python Script</a> in *Introduction to Cultural Analytics & Python*, online textbook. 
 
 **Thu Sep 17 — Narratives vs Numbers I**
 - Daina Ramey Berry, <a href="Readings/Berry_CH3_Intro.pdf" target="_blank">*The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave, in the Building of a Nation*</a> (Boston: Beacon Press, 2017), Intro + Chapter 3, pgs 1-9 and 58-90. (Here are the <a href="Readings/Berry_CH3_Notes.pdf" target="_blank">notes</a>, but you are not responsible for printing these)
-- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html" target="_blank">"Data Types"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html" target="_blank">"Python Sting Methods"</a>, *Introduction to Cultural Analytics & Python*.
+-  Digital History Project Review - <a href="https://dsl.richmond.edu/panorama/forcedmigration/#tab=1&narratives=true&cotton=true&sugar=true&labels=false&decade=1810&loc=6/-9.601/12.775" target="_blank">"The Forced Migration of Enslaved Peoples in the United States, 1810-1860"</a> Please make a copy of this form, save it in your Google Drive space, fill it out, and submit it to Canvas before class. <a href="Readings/HIST280_Digital_Project_Review_Forced_Migration.docx" download>Project Review Form</a> and you can submit the form here "Digital History Project Review #1"
+
+
+### Python
+### Before Class
+Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html" target="_blank">"Python Basics I: Variables"</a> 
+### In Class
+<a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html" target="_blank">"Data Types"</a> *Introduction to Cultural Analytics & Python*.
+
 
 **Tue Sep 22 — Building a Portfolio Website**
 - Webside Analysis - David Mora and Michelle Jia, <a href="https://pudding.cool/2024/11/love-songs/" target="_blank">"Is the Love Dong Dying?"</a> *The Pudding* (11 November 2024)
-- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html" target="_blank">"Files and Character Encoding"</a>, *Introduction to Cultural Analytics & Python*.
+- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html" target="_blank">"Python Sting Methods"</a>, and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html" target="_blank">"Files and Character Encoding"</a>, *Introduction to Cultural Analytics & Python*.
 
 
 **Thu Sep 24 — Narratives vs Numbers II**
