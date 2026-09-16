@@ -36,7 +36,9 @@ Robert Butts, ETS, assisting. No reading.
 
 **Thu Sep 17 — Narratives vs Numbers I**
 - Daina Ramey Berry, <a href="Readings/Berry_CH3_Intro.pdf" target="_blank">*The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave, in the Building of a Nation*</a> (Boston: Beacon Press, 2017), Intro + Chapter 3, pgs 1-9 and 58-90. (Here are the <a href="Readings/Berry_CH3_Notes.pdf" target="_blank">notes</a>, but you are not responsible for printing these)
--  Digital History Project Review - <a href="https://dsl.richmond.edu/panorama/forcedmigration/#tab=1&narratives=true&cotton=true&sugar=true&labels=false&decade=1810&loc=6/-9.601/12.775" target="_blank">"The Forced Migration of Enslaved Peoples in the United States, 1810-1860"</a> Please make a copy of this form, save it in your Google Drive space, fill it out, and submit it to Canvas before class. <a href="Readings/HIST280_Digital_Project_Review_Forced_Migration.docx" download>Project Review Form</a> and you can submit the form here "Digital History Project Review #1"
+-  Digital History Project Review - <a href="https://dsl.richmond.edu/panorama/forcedmigration/#tab=1&narratives=true&cotton=true&sugar=true&labels=false&decade=1810&loc=6/-9.601/12.775" target="_blank">"The Forced Migration of Enslaved Peoples in the United States, 1810-1860"</a> Please make a copy of this form, save it in your Google Drive space, fill it out, and submit it to Canvas before class. <a href="Readings/HIST280_Digital_Project_Review_Forced_Migration.docx" download>Project Review Form</a> and you can submit the form here <a href="https://courses.denison.edu/courses/20028/assignments/195671" target="_blank">"CANVAS - Digital History Project Review #1"</a>
+
+
 
 
 ### Python
