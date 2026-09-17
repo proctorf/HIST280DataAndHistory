@@ -51,3 +51,15 @@ This page gathers a few examples of more advance digital history / digital human
 
 - [Star Wars Social Networks](http://evelinag.com/blog/2015/12-15-star-wars-social-network/)
 
+
+## Text Encoding
+
+- Digital Mitford: The Mary Russell Mitford Archive 
+  - Link - https://digitalmitford.org/
+  - Navigate through "Letters," "Read Mary Russel Mitford's Letters." One the bottom right, are examples of an original letter (pdf) and an encoded version of that letter (TEI).
+  - You can see more examples if you select "Read Mary Russell Mitford's Letters" - pick a year, and then a letter, in the subsequent page the transcribed letter will appear on the left. If you select "TEI encoding of the letter from the top navigation, it will show you the encoded, computer readable letter"
+  - Finally, the web version of the letter is actually created by using another file to transform the encoded file into html.
+
+- Text Encoding Course taught by Elisa Beshero-Bondar (at PSU Behernt)
+  - Step by step walkthrough of XML/TEI encoding
+  - Link : https://newtfire.org/courses/textEncoding/teSyll.html
