@@ -1,4 +1,4 @@
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
 
 ---
 
@@ -129,4 +129,4 @@ Not yet assigned.
 
 ---
 
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
