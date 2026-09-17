@@ -54,6 +54,12 @@ This page gathers a few examples of more advance digital history / digital human
 
 ## Text Encoding
 
+- Enslaved Fugative Ads in Ohio (from Prof Proctor's HIST 289 - Digital History course)
+  - Student transcribed and encoded primary sources, so make them computer readable.
+  -To see the encoded documents, click "Link to XML"
+  - Note - The landing html page and the pages for each individual add are created by transforming the XML inth HTML
+  - Link: https://proctorf.github.io/HIST289SharedS24/html/shorthand_thumbnails.html
+
 - Digital Mitford: The Mary Russell Mitford Archive 
   - Link - https://digitalmitford.org/
   - Navigate through "Letters," "Read Mary Russel Mitford's Letters." One the bottom right, are examples of an original letter (pdf) and an encoded version of that letter (TEI).
@@ -63,3 +69,7 @@ This page gathers a few examples of more advance digital history / digital human
 - Text Encoding Course taught by Elisa Beshero-Bondar (at PSU Behernt)
   - Step by step walkthrough of XML/TEI encoding
   - Link : https://newtfire.org/courses/textEncoding/teSyll.html
+
+- Frankenstein Volume I Draft in Chapter Sequence
+    - Link - https://shelleygodwinarchive.org/sc/oxford/frankenstein/volume/i/#/p1/mode/rdg
+    - select the "</>" button to transform the transcription into a TEI version to see the markup to make the page computer readable.
