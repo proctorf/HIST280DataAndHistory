@@ -49,7 +49,10 @@ Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-A
 
 
 **Tue Sep 22 — Building a Portfolio Website**
-- Webside Analysis - David Mora and Michelle Jia, <a href="https://pudding.cool/2024/11/love-songs/" target="_blank">"Is the Love Dong Dying?"</a> *The Pudding* (11 November 2024)
+- Webside Analysis - David Mora and Michelle Jia, <a href="https://pudding.cool/2024/11/love-songs/" target="_blank">"Is the Love Song Dying?"</a> *The Pudding* (11 November 2024)
+
+- IN Class [Portfolio Website](Assignments/personal-website-guide.md)
+
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html" target="_blank">"Python Sting Methods"</a>, and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html" target="_blank">"Files and Character Encoding"</a>, *Introduction to Cultural Analytics & Python*.
 
 
