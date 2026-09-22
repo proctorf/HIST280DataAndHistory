@@ -74,7 +74,7 @@ Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-A
 - Consolidation/practice lab: applying variables, strings, lists, dictionaries, and functions to a real dataset.
 
 **Thu Oct 8 — Project Review Presentations**
-No new reading. [Project Review Assignment](Project-Review.md)
+No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 
 **Tue Oct 13 — Coding catch-up day**
 Midterms week — no new reading, kept low-pressure.
