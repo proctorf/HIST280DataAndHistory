@@ -8,26 +8,26 @@ This page gathers a few examples of more advance digital history / digital human
 - Martha Ballard's Diary: Topic Modeling
   - Author/Project: Cynthia Blevins
   - Description: A classic example of topic modeling applied to a historical diary, showing how computational methods can surface recurring themes and patterns in everyday life writing.
-  - Link: https://cblevins.github.io/posts/topic-modeling-martha-ballards-diary/
+  - Link: [https://cblevins.github.io/posts/topic-modeling-martha-ballards-diary/](https://cblevins.github.io/posts/topic-modeling-martha-ballards-diary/)
 
 - Civil War Dispatches Digital Edition
   - Author/Project: Digital Scholarship Lab, University of Richmond
   - Description: A large-scale digital humanities project that uses text analysis to explore patterns in Civil War newspaper reporting and historical language.
-  - Link: https://dsl.richmond.edu/dispatch/introduction
+  - Link: [https://dsl.richmond.edu/dispatch/introduction](https://dsl.richmond.edu/dispatch/introduction)
 
 ## Sentiment Analysis
 
 - What Do the Ramones Want?
   - Author/Project: outsiderdata
   - Description: A blog post that uses sentiment analysis to examine the emotional tone of Ramones lyrics and interpret what the band’s language suggests about mood, attitude, and meaning.
-  - Link: https://outsiderdata.blog/posts/2020-01-15-what-do-the-ramones-want/2020-01-15-what-do-the-ramones-want
+  - Link: [https://outsiderdata.blog/posts/2020-01-15-what-do-the-ramones-want/2020-01-15-what-do-the-ramones-want](https://outsiderdata.blog/posts/2020-01-15-what-do-the-ramones-want/2020-01-15-what-do-the-ramones-want)
 
 ## General / Methodological Examples
 
 - A Bossy Sort of Voice
   - Author/Project: Agatha Codes
   - Description: A broader digital humanities and text analysis example that explores style, tone, and computational reading of literary voice using the NLTK (Natural Language Toolkit).
-  - Link: https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093
+  - Link: [https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093](https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093)
 
 ## Mapping
 
@@ -47,7 +47,7 @@ This page gathers a few examples of more advance digital history / digital human
 
 - Tudor Networks (created by Ruth and Sebastian Ahnert) 
   - Description: An interactive project exploring social and correspondence networks during the Tudor period.  
-  - Link: https://tudornetworks.net/
+  - Link: [https://tudornetworks.net/](https://tudornetworks.net/)
 
 - [Star Wars Social Networks](http://evelinag.com/blog/2015/12-15-star-wars-social-network/)
 
@@ -58,18 +58,18 @@ This page gathers a few examples of more advance digital history / digital human
   - Student transcribed and encoded primary sources, so make them computer readable.
   -To see the encoded documents, click "Link to XML"
   - Note - The landing html page and the pages for each individual add are created by transforming the XML inth HTML
-  - Link: https://proctorf.github.io/HIST289SharedS24/html/shorthand_thumbnails.html
+  - Link: [https://proctorf.github.io/HIST289SharedS24/html/shorthand_thumbnails.html](https://proctorf.github.io/HIST289SharedS24/html/shorthand_thumbnails.html)
 
 - Digital Mitford: The Mary Russell Mitford Archive 
-  - Link - https://digitalmitford.org/
+  - Link - [https://digitalmitford.org/](https://digitalmitford.org/)
   - Navigate through "Letters," "Read Mary Russel Mitford's Letters." One the bottom right, are examples of an original letter (pdf) and an encoded version of that letter (TEI).
   - You can see more examples if you select "Read Mary Russell Mitford's Letters" - pick a year, and then a letter, in the subsequent page the transcribed letter will appear on the left. If you select "TEI encoding of the letter from the top navigation, it will show you the encoded, computer readable letter"
   - Finally, the web version of the letter is actually created by using another file to transform the encoded file into html.
 
 - Text Encoding Course taught by Elisa Beshero-Bondar (at PSU Behernt)
   - Step by step walkthrough of XML/TEI encoding
-  - Link : https://newtfire.org/courses/textEncoding/teSyll.html
+  - Link : [https://newtfire.org/courses/textEncoding/teSyll.html](https://newtfire.org/courses/textEncoding/teSyll.html)
 
 - Frankenstein Volume I Draft in Chapter Sequence
-    - Link - https://shelleygodwinarchive.org/sc/oxford/frankenstein/volume/i/#/p1/mode/rdg
+    - Link - [https://shelleygodwinarchive.org/sc/oxford/frankenstein/volume/i/#/p1/mode/rdg](https://shelleygodwinarchive.org/sc/oxford/frankenstein/volume/i/#/p1/mode/rdg)
     - select the "</>" button to transform the transcription into a TEI version to see the markup to make the page computer readable.
