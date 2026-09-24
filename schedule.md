@@ -57,8 +57,8 @@ Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-A
 
 
 **Thu Sep 24 — Narratives vs Numbers II**
-- Caitlin Rosenthal, <a href="" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3.
-- Geoffrey C. Bowker and Susan Leigh Star, <a href="" target="_blank">*Sorting Things Out: Classification and Its Consequences*</a> (Cambridge, MA: MIT Press, 1999), Intro.
+- Caitlin Rosenthal, <a href="https://research.ebsco.com/plink/ec69f7df-12be-3be2-b112-323ef45d9daa" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3 "Slavery's Scientific Management".
+- Geoffrey C. Bowker and Susan Leigh Star, <a href="https://research.ebsco.com/plink/c321afb2-073e-3f9f-ac54-e6635e133a55" target="_blank">*Sorting Things Out: Classification and Its Consequences*</a> (Cambridge, MA: MIT Press, 1999), Intro.
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html" target="_blank">"Lists & Loops I"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html" target="_blank">"Lists & Loops II"</a>, *Introduction to Cultural Analytics & Python*.
 
 **Tue Sep 29 — Narratives vs Numbers III**
