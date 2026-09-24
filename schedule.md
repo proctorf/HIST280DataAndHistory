@@ -56,33 +56,37 @@ Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-A
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html" target="_blank">"Python Sting Methods"</a>, and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html" target="_blank">"Files and Character Encoding"</a>, *Introduction to Cultural Analytics & Python*.
 
 
-**Thu Sep 24 — Narratives vs Numbers II**
-- Caitlin Rosenthal, <a href="https://research.ebsco.com/plink/ec69f7df-12be-3be2-b112-323ef45d9daa" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3 "Slavery's Scientific Management".
-- Geoffrey C. Bowker and Susan Leigh Star, <a href="https://research.ebsco.com/plink/c321afb2-073e-3f9f-ac54-e6635e133a55" target="_blank">*Sorting Things Out: Classification and Its Consequences*</a> (Cambridge, MA: MIT Press, 1999), Intro.
+**Thu Sep 24 — *NO READING TODAY - CODING CATCH UP* ~~Narratives vs Numbers II~~**
+
+
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html" target="_blank">"Lists & Loops I"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html" target="_blank">"Lists & Loops II"</a>, *Introduction to Cultural Analytics & Python*.
 
-**Tue Sep 29 — Narratives vs Numbers III**
-- David L. Lightner and Alexander M. Ragan, <a href="https://www.jstor.org/stable/27648819" target="_blank">"Were African American Slaveholders Benevolent or Exploitative? A Quantitative Approach,"</a> *Journal of Southern History* 71, no. 3 (August 2005): 535–558.
+**Tue Sep 29 — Narratives vs Numbers II**
+- Caitlin Rosenthal, <a href="" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3.
+- Geoffrey C. Bowker and Susan Leigh Star, <a href="" target="_blank">*Sorting Things Out: Classification and Its Consequences*</a> (Cambridge, MA: MIT Press, 1999), Intro.
+
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html" target="_blank">"Dictionaries"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html" target="_blank">"Comparisons and Conditionals"</a>, *Introduction to Cultural Analytics & Python*.
 
 **Thu Oct 1 — Bodies, Data, and Slavery's Archives I**
 - Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36, no. 4 (137) (2018): 57–79.
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html" target="_blank">"Functions"</a>, *Introduction to Cultural Analytics & Python*.
 
-**Tue Oct 6 — Bodies, Data, and Slavery's Archives II**
+**Tue Oct 6 — Narratives and Numbers III**
+- David L. Lightner and Alexander M. Ragan, <a href="https://www.jstor.org/stable/27648819" target="_blank">"Were African American Slaveholders Benevolent or Exploitative? A Quantitative Approach,"</a> *Journal of Southern History* 71, no. 3 (August 2005): 535–558.
+- Michael Tadman, <a href="https://www.jstor.org/stable/2652029" target="_blank">"The Demographic Cost of Sugar: Debates on Slave Societies and Natural Increase in the Americas," *The American Historical Review* 105:5 (2000): 1534-1575
+
+**Thu Oct 8 — Bodies, Data, and Slavery's Archives II**
 - Daniel Immerwahr, <a href="https://research-ebsco-com.denison.idm.oclc.org/linkprocessor/plink?id=243effad-1182-3057-baae-3299443edda0" target="_blank">"Burning Down the House: Slavery and Arson in America,"</a> *Journal of American History* 110, no. 3 (December 2023): 449–473.
 - Consolidation/practice lab: applying variables, strings, lists, dictionaries, and functions to a real dataset.
 
-**Thu Oct 8 — Project Review Presentations**
+**Tue Oct 13 — Project Review Presentations**
 No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 
-**Tue Oct 13 — Coding catch-up day**
-Midterms week — no new reading, kept low-pressure.
 
 **Thu Oct 15 — No class (fall study break)**
 
 **Tue Oct 20 — DataFrames Lab I**
-- ⚑ Johanna Drucker, <a href="" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69 — confirm this is the Drucker piece you meant; paired here since students encounter data *types* (dtypes) technically the same day.
+- ⚑ Johanna Drucker, <a href="" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69.
 
 - Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
 
