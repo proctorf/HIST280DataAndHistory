@@ -1,4 +1,4 @@
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
 
 ---
 
@@ -32,34 +32,49 @@ Robert Butts, ETS, assisting. No reading.
 - John E. Murray, Alan L. Olmstead, Trevon D. Logan, Jonathan B. Pritchett, et al., <a href="https://dx.doi.org/10.1017/S0022050715000996" target="_blank">"[Book Review Forum] The Half Has Never Been Told: Slavery and the Making of American Capitalism, by Edward E. Baptist,"</a> *The Journal of Economic History* 75, no. 3 (September 2015): 919–931.
 
 **Tue Sep 15 — Python basics** *(lab)*
-- Melanie Walsh, ⚑ <a href="" target="_blank">"Python Basics I: Variables"</a>, in *Introduction to Cultural Analytics & Python*, online textbook. Reconstructed from Blevins' sequence — verify exact chapter title/URL against the current site.
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html" target="_blank">Anatomy of a Python Script</a> in *Introduction to Cultural Analytics & Python*, online textbook. 
 
 **Thu Sep 17 — Narratives vs Numbers I**
-- Daina Ramey Berry, <a href="" target="_blank">*The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave, in the Building of a Nation*</a> (Boston: Beacon Press, 2017), selections.
-- Lab: Melanie Walsh, ⚑ <a href="" target="_blank">"String Methods"</a> and <a href="" target="_blank">"Files"</a>, *Introduction to Cultural Analytics & Python*.
+- Daina Ramey Berry, <a href="Readings/Berry_CH3_Intro.pdf" target="_blank">*The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave, in the Building of a Nation*</a> (Boston: Beacon Press, 2017), Intro + Chapter 3, pgs 1-9 and 58-90. (Here are the <a href="Readings/Berry_CH3_Notes.pdf" target="_blank">notes</a>, but you are not responsible for printing these)
+-  Digital History Project Review - <a href="https://dsl.richmond.edu/panorama/forcedmigration/#tab=1&narratives=true&cotton=true&sugar=true&labels=false&decade=1810&loc=6/-9.601/12.775" target="_blank">"The Forced Migration of Enslaved Peoples in the United States, 1810-1860"</a> Please make a copy of this form, save it in your Google Drive space, fill it out, and submit it to Canvas before class. <a href="Readings/HIST280_Digital_Project_Review_Forced_Migration.docx" download>Project Review Form</a> and you can submit the form here <a href="https://courses.denison.edu/courses/20028/assignments/195671" target="_blank">"CANVAS - Digital History Project Review #1"</a>
+
+
+
+
+### Python
+### Before Class
+Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html" target="_blank">"Python Basics I: Variables"</a> 
+### In Class
+<a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html" target="_blank">"Data Types"</a> *Introduction to Cultural Analytics & Python*.
+
 
 **Tue Sep 22 — Building a Portfolio Website**
-Content TBD — placeholder.
+- Webside Analysis - David Mora and Michelle Jia, <a href="https://pudding.cool/2024/11/love-songs/" target="_blank">"Is the Love Song Dying?"</a> *The Pudding* (11 November 2024)
+
+- IN Class [Portfolio Website](Assignments/personal-website-guide.md)
+
+- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html" target="_blank">"Python Sting Methods"</a>, and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html" target="_blank">"Files and Character Encoding"</a>, *Introduction to Cultural Analytics & Python*.
+
 
 **Thu Sep 24 — Narratives vs Numbers II**
 - Caitlin Rosenthal, <a href="" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3.
 - Geoffrey C. Bowker and Susan Leigh Star, <a href="" target="_blank">*Sorting Things Out: Classification and Its Consequences*</a> (Cambridge, MA: MIT Press, 1999), Intro.
-- Lab: Melanie Walsh, ⚑ <a href="" target="_blank">"Lists"</a> and <a href="" target="_blank">"For Loops"</a>, *Introduction to Cultural Analytics & Python*.
+- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html" target="_blank">"Lists & Loops I"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html" target="_blank">"Lists & Loops II"</a>, *Introduction to Cultural Analytics & Python*.
 
 **Tue Sep 29 — Narratives vs Numbers III**
 - David L. Lightner and Alexander M. Ragan, <a href="https://www.jstor.org/stable/27648819" target="_blank">"Were African American Slaveholders Benevolent or Exploitative? A Quantitative Approach,"</a> *Journal of Southern History* 71, no. 3 (August 2005): 535–558.
-- Lab: Melanie Walsh, ⚑ <a href="" target="_blank">"Dictionaries"</a> and <a href="" target="_blank">"Comparisons and Conditionals"</a>, *Introduction to Cultural Analytics & Python*.
+- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html" target="_blank">"Dictionaries"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html" target="_blank">"Comparisons and Conditionals"</a>, *Introduction to Cultural Analytics & Python*.
 
 **Thu Oct 1 — Bodies, Data, and Slavery's Archives I**
 - Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36, no. 4 (137) (2018): 57–79.
-- Lab: Melanie Walsh, ⚑ <a href="" target="_blank">"Functions"</a>, *Introduction to Cultural Analytics & Python*.
+- Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html" target="_blank">"Functions"</a>, *Introduction to Cultural Analytics & Python*.
 
 **Tue Oct 6 — Bodies, Data, and Slavery's Archives II**
 - Daniel Immerwahr, <a href="https://research-ebsco-com.denison.idm.oclc.org/linkprocessor/plink?id=243effad-1182-3057-baae-3299443edda0" target="_blank">"Burning Down the House: Slavery and Arson in America,"</a> *Journal of American History* 110, no. 3 (December 2023): 449–473.
 - Consolidation/practice lab: applying variables, strings, lists, dictionaries, and functions to a real dataset.
 
 **Thu Oct 8 — Project Review Presentations**
-No new reading.
+No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 
 **Tue Oct 13 — Coding catch-up day**
 Midterms week — no new reading, kept low-pressure.
@@ -67,17 +82,18 @@ Midterms week — no new reading, kept low-pressure.
 **Thu Oct 15 — No class (fall study break)**
 
 **Tue Oct 20 — DataFrames Lab I**
-- Melanie Walsh, ⚑ <a href="" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
 - ⚑ Johanna Drucker, <a href="" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69 — confirm this is the Drucker piece you meant; paired here since students encounter data *types* (dtypes) technically the same day.
 
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
+
 **Thu Oct 22 — DataFrames Lab II**
-- Melanie Walsh, ⚑ <a href="" target="_blank">"Pandas Basics Part 2"</a> and <a href="" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
 
 **Tue Oct 27 — Yau, *Data Points* (data viz, day 1)**
 - Nathan Yau, <a href="" target="_blank">*Data Points: Visualization That Means Something*</a> (Indianapolis: John Wiley & Sons, 2013), relevant chapter(s) — confirm exact pages you're assigning.
 
 **Thu Oct 29 — Social Networks**
-Your own research — no external citation; opens the AI-native phase and models LLM-assisted coding before students try it themselves.
+Prof Proctor's work "Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637," Unpublsihed Paper
 
 **Tue Nov 3 — Naylor, *Unsilencing Slavery* (data viz, day 2)**
 - Celia E. Naylor, <a href="" target="_blank">*Unsilencing Slavery: Telling Truths About Rose Hall Plantation, Jamaica*</a> (Athens: University of Georgia Press, Gender and Slavery Series, 2022), chapter TBD.
@@ -116,11 +132,4 @@ Not yet assigned.
 
 ---
 
-## Notes on citation confidence
-- **High confidence (verified via search, now with links):** Naylor, Lightner & Ragan, Immerwahr, Monmonier, Martin, Willison, Underwood, both Cohen pieces, Johnson.
-- **Medium confidence (from documents you provided earlier, not independently re-verified):** Arnold, Data Feminism, Raw Data is an Oxymoron, Fogel & Engerman, Gutman, Baptist, Berry, Rosenthal, Bowker & Star, Karsdorp/Kestemont/Riddell, Houston, Drucker.
-- **Still needs your input:** Yau's exact chapter/pages, Klein's forthcoming book details, and every Melanie Walsh chapter title/URL — reconstructed from memory of Blevins' schedule rather than the live site, so please spot-check against melaniewalsh.github.io before publishing.
-
----
-
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)

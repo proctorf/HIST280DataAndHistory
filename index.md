@@ -1,6 +1,6 @@
 <img src="brooks.png" alt="The Brooks" style="max-width:100%;height:auto;display:block;margin-bottom:1em;" />
 
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
 
 <a href="print.html" style="display:inline-block;margin:0.5em 0;padding:0.6em 1.4em;font-size:1em;background:#2a7ae2;color:white;border-radius:4px;text-decoration:none;">&#128424; Print / Save as PDF</a>
 
@@ -72,4 +72,4 @@ As a relative novice in data, coding, and digital humanities, I have borrowed he
 ---
 
 
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
