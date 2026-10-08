@@ -45,7 +45,7 @@ Unlike printed journal reviews, your website review can and should take advantag
 
 ## Submission
 
-Submit the URL to your review page through [the Canvas assignment page](#).
+Submit the URL to your review page through [the Canvas assignment page](https://courses.denison.edu/courses/20028/assignments/197307).
 
 ---
 
