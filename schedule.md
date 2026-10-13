@@ -86,7 +86,7 @@ No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 **Thu Oct 15 — No class (fall study break)**
 
 **Tue Oct 20 — DataFrames Lab I**
-- ⚑ Johanna Drucker, <a href="" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69.
+- ⚑ Johanna Drucker, <a href="Readings/Drucker_Data.pdf" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69.
 
 - Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
 
