@@ -14,7 +14,7 @@ title: Project Reviews
 
 <a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Luke Swiggett</a> Mapping Inequality
 
-<a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Jonah Frank</a> ORBIS The Stanford Geospatial Network Model of the Roman World
+<a href="https://orbis.stanford.edu/" target="_blank">Jonah Frank</a> ORBIS The Stanford Geospatial Network Model of the Roman World
 
 <a href="https://valley.newamericanhistory.org/eve" target="_blank">Tanisha Mandlecha</a> The Valley of the Shadow
 
