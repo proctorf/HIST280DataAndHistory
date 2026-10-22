@@ -91,7 +91,7 @@ No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 - Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
 
 **Thu Oct 22 — DataFrames Lab II**
-- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
 
 **Tue Oct 27 — Yau, *Data Points* (data viz, day 1)**
 - Nathan Yau, <a href="Readings/Yau_Data_Points_Selections.pdf" target="_blank">*Data Points: Visualization That Means Something*</a> (Indianapolis: John Wiley & Sons, 2013), relevant chapter(s) — confirm exact pages you're assigning.
