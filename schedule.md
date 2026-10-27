@@ -97,7 +97,7 @@ No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 - Nathan Yau, <a href="Readings/Yau_Data_Points_Selections.pdf" target="_blank">*Data Points: Visualization That Means Something*</a> (Indianapolis: John Wiley & Sons, 2013), relevant chapter(s) — confirm exact pages you're assigning.
 
 **Thu Oct 29 — Social Networks**
-Prof Proctor's work "Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637," Unpublsihed Paper
+Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blank">"Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637,"</a> Unpublsihed Paper
 
 **Tue Nov 3 — Naylor, *Unsilencing Slavery* (data viz, day 2)**
 - Celia E. Naylor, <a href="" target="_blank">*Unsilencing Slavery: Telling Truths About Rose Hall Plantation, Jamaica*</a> (Athens: University of Georgia Press, Gender and Slavery Series, 2022), chapter TBD.
