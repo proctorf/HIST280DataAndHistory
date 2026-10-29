@@ -109,8 +109,9 @@ Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blan
 - Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.
 - Workshop: Claude Code Web — build a data explorer or network tool.
 
-**Tue Nov 10 — Klein (forthcoming, data viz, day 3)**
-- ⚑ Lauren Klein, "Data: The Society for Effecting the Abolition of the Slave Trade and Responsible Visualization Design" and "Image: William Playfair and the Politics of the 'Simple View'" — forthcoming book, no publisher/page details available yet. Update once the book is out.
+**Tue Nov 10 — TBD**
+
+TBD
 
 **Thu Nov 12 — AI for Textual Analysis**
 - Natalie M. Houston, ⚑ <a href="" target="_blank">"Text Analysis,"</a> *Digital Pedagogy in the Humanities* (keyword entry) — confirm exact URL.
