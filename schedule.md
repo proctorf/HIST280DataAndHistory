@@ -17,7 +17,7 @@ No readings.
 **Thu Sep 3 — The Time on the Cross Debate**
 - Optional: <a href="https://www.youtube.com/watch?v=Ajn9g5Gsv98" target="_blank">Watch Crash Course US History: Slavery</a> (14:24 min.) for a “big-picture” introduction to the topic of slavery in US history
   
-- Robert William Fogel and Stanley L. Engerman, <a href="Readings/FogelEngermanCh4.pdf" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), pgs 3-13, 107-157.
+- Robert William Fogel and Stanley L. Engerman, <a href="/FogelEngermanCh4.pdf" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), pgs 3-13, 107-157.
 - Herbert G. Gutman, "<a href="Readings/GutmanTCReview.pdf" target="_blank">Review: Time on the Cross: The Economics of American Negro Slavery"</a>", *Journal of Negro History* 60:1 (1975), 54-93.
 - 
 - {You are NOT REQUIRED to print or read this, but I wanted to give you a copy of the Methods/Evidence discussion from the companion volume to the orignal book}.
@@ -62,7 +62,7 @@ Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-A
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html" target="_blank">"Lists & Loops I"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html" target="_blank">"Lists & Loops II"</a>, *Introduction to Cultural Analytics & Python*.
 
 **Tue Sep 29 — Narratives vs Numbers II**
-- Caitlin Rosenthal, <a href="https://research.ebsco.com/plink/ec69f7df-12be-3be2-b112-323ef45d9daa" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3 "Slavery's Scientific Management", pgs 1-8 & 85-120.
+- Caitlin Rosenthal, <a href="https://doi.org/10.4159/9780674988590" target="_blank">*Accounting for Slavery: Masters and Management*</a> (Cambridge, MA: Harvard University Press, 2018), Intro + ch. 3 "Slavery's Scientific Management", pgs 1-8 & 85-120.
 - Geoffrey C. Bowker and Susan Leigh Star, <a href="https://doi.org/10.7551/mitpress/6352.003.0002" target="_blank">*Sorting Things Out: Classification and Its Consequences*</a> (Cambridge, MA: MIT Press, 1999), Intro, pgs 1-16.
 
 - Lab: Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html" target="_blank">"Dictionaries"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html" target="_blank">"Comparisons and Conditionals"</a>, *Introduction to Cultural Analytics & Python*.
@@ -86,21 +86,21 @@ No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 **Thu Oct 15 — No class (fall study break)**
 
 **Tue Oct 20 — DataFrames Lab I**
-- ⚑ Johanna Drucker, <a href="" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69.
+- ⚑ Johanna Drucker, <a href="Readings/Drucker_Data.pdf" target="_blank">"Metadata, Markup, and Data Description,"</a> ch. 4 in *Digital Humanities Coursebook* (New York: Routledge, 2021), 52–69.
 
 - Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
 
 **Thu Oct 22 — DataFrames Lab II**
-- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
 
 **Tue Oct 27 — Yau, *Data Points* (data viz, day 1)**
-- Nathan Yau, <a href="" target="_blank">*Data Points: Visualization That Means Something*</a> (Indianapolis: John Wiley & Sons, 2013), relevant chapter(s) — confirm exact pages you're assigning.
+- Nathan Yau, <a href="Readings/Yau_Data_Points_Selections.pdf" target="_blank">*Data Points: Visualization That Means Something*</a> (Indianapolis: John Wiley & Sons, 2013), relevant chapter(s) — confirm exact pages you're assigning.
 
 **Thu Oct 29 — Social Networks**
-Prof Proctor's work "Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637," Unpublsihed Paper
+Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blank">"Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637,"</a> Unpublsihed Paper
 
 **Tue Nov 3 — Naylor, *Unsilencing Slavery* (data viz, day 2)**
-- Celia E. Naylor, <a href="" target="_blank">*Unsilencing Slavery: Telling Truths About Rose Hall Plantation, Jamaica*</a> (Athens: University of Georgia Press, Gender and Slavery Series, 2022), chapter TBD.
+- Celia E. Naylor, <a href="Readings/Naylor_CH1and2.pdf" target="_blank">*Unsilencing Slavery: Telling Truths About Rose Hall Plantation, Jamaica*</a> (Athens: University of Georgia Press, Gender and Slavery Series, 2022), 32-79 + <a href="Readings/Naylor_notes.pdf" target="_blank">footnotes</a>.
 - <a href="https://unsilencing-slavery.org/" target="_blank">unsilencing-slavery.org</a>
 
 **Thu Nov 5 — AI for Code and Digital Humanities**
@@ -109,8 +109,9 @@ Prof Proctor's work "Social Networks, 'Social Death,' and Enslaved Communities i
 - Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.
 - Workshop: Claude Code Web — build a data explorer or network tool.
 
-**Tue Nov 10 — Klein (forthcoming, data viz, day 3)**
-- ⚑ Lauren Klein, "Data: The Society for Effecting the Abolition of the Slave Trade and Responsible Visualization Design" and "Image: William Playfair and the Politics of the 'Simple View'" — forthcoming book, no publisher/page details available yet. Update once the book is out.
+**Tue Nov 10 — TBD**
+
+TBD
 
 **Thu Nov 12 — AI for Textual Analysis**
 - Natalie M. Houston, ⚑ <a href="" target="_blank">"Text Analysis,"</a> *Digital Pedagogy in the Humanities* (keyword entry) — confirm exact URL.
