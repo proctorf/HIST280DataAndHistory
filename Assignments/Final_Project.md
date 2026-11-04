@@ -1,3 +1,12 @@
+---
+title: Final Research Project
+---
+
+<style>
+  @media print { #print-final { display: none !important; } header, footer, nav { display: none !important; } }
+</style>
+<button id="print-final" onclick="window.print()" style="margin:0.5em 0;padding:0.6em 1.4em;font-size:1em;background:#2a7ae2;color:white;border:none;border-radius:4px;cursor:pointer;">&#128424; Print / Save as PDF</button>
+
 # Final Research Project
 
 The major culminating assignment for this course is a research project in which you find or create a dataset that allows you to investigate some sort of historical topic (broadly defined). You will use Python to process and analyze the data in order to present an argument, interpretation, or narrative based on that analysis. You will complete your project as a Jupyter Notebook that combines your code, your visualizations, and your analysis. You are free to choose any topic or dataset that you want, with approval, but it must be historical in nature.
