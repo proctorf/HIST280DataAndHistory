@@ -104,9 +104,9 @@ Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blan
 - <a href="https://unsilencing-slavery.org/" target="_blank">unsilencing-slavery.org</a>
 
 **Thu Nov 5 — AI for Code and Digital Humanities**
-- Meredith Martin, <a href="https://www-cambridge-org.denison.idm.oclc.org/core/journals/pmla/article/command-lines-for-the-humanities/097F959E6971063D05B085E698354BA2" target="_blank">"Command Lines for the Humanities,"</a> *PMLA* 139, no. 3 (2024): 541–547.
+- Meredith Martin, <a href="https://www-cambridge-org.denison.idm.oclc.org/core/journals/pmla/article/command-lines-for-the-humanities/097F959E6971063D05B085E698354BA2" target="_blank">"Command Lines for the Humanities,"</a> *PMLA* 139, no. 3 (2024): 541–547. <!--Does not work-->
 - Simon Willison, <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/" target="_blank">"Not All AI-Assisted Programming is Vibe Coding (But Vibe Coding Rocks),"</a> simonwillison.net, March 19, 2025.
-- Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.
+- Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.<!--Does not work-->
 - Workshop: Claude Code Web — build a data explorer or network tool.
 
 **Tue Nov 10 — TBD**
