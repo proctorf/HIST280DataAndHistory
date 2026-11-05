@@ -1,4 +1,4 @@
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md) · [Final Project](Assignments/Final_Project.md)
 
 ---
 
@@ -17,7 +17,7 @@ No readings.
 **Thu Sep 3 — The Time on the Cross Debate**
 - Optional: <a href="https://www.youtube.com/watch?v=Ajn9g5Gsv98" target="_blank">Watch Crash Course US History: Slavery</a> (14:24 min.) for a “big-picture” introduction to the topic of slavery in US history
   
-- Robert William Fogel and Stanley L. Engerman, <a href="Readings/FogelEngermanCh4.pdf" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), pgs 3-13, 107-157.
+- Robert William Fogel and Stanley L. Engerman, <a href="/FogelEngermanCh4.pdf" target="_blank">*Time on the Cross: The Economics of American Negro Slavery*</a> (Boston: Little, Brown, 1974), pgs 3-13, 107-157.
 - Herbert G. Gutman, "<a href="Readings/GutmanTCReview.pdf" target="_blank">Review: Time on the Cross: The Economics of American Negro Slavery"</a>", *Journal of Negro History* 60:1 (1975), 54-93.
 - 
 - {You are NOT REQUIRED to print or read this, but I wanted to give you a copy of the Methods/Evidence discussion from the companion volume to the orignal book}.
@@ -91,26 +91,27 @@ No new reading. [Project Review Assignment](Assignments/Project-Review.md)
 - Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html" target="_blank">"Pandas Basics Part 1"</a>, *Introduction to Cultural Analytics & Python* — loading, indexing, filtering.
 
 **Thu Oct 22 — DataFrames Lab II**
-- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
+- Melanie Walsh, ⚑ <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html" target="_blank">"Pandas Basics Part 2"</a> and <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html" target="_blank">"Pandas Basics Part 3"</a>, *Introduction to Cultural Analytics & Python* — grouping, aggregating, basic charting.
 
 **Tue Oct 27 — Yau, *Data Points* (data viz, day 1)**
 - Nathan Yau, <a href="Readings/Yau_Data_Points_Selections.pdf" target="_blank">*Data Points: Visualization That Means Something*</a> (Indianapolis: John Wiley & Sons, 2013), relevant chapter(s) — confirm exact pages you're assigning.
 
 **Thu Oct 29 — Social Networks**
-Prof Proctor's work "Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637," Unpublsihed Paper
+Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blank">"Social Networks, 'Social Death,' and Enslaved Communities in Mexico City: 1628-1637,"</a> Unpublsihed Paper
 
 **Tue Nov 3 — Naylor, *Unsilencing Slavery* (data viz, day 2)**
-- Celia E. Naylor, <a href="" target="_blank">*Unsilencing Slavery: Telling Truths About Rose Hall Plantation, Jamaica*</a> (Athens: University of Georgia Press, Gender and Slavery Series, 2022), chapter TBD.
+- Celia E. Naylor, <a href="Readings/Naylor_CH1and2.pdf" target="_blank">*Unsilencing Slavery: Telling Truths About Rose Hall Plantation, Jamaica*</a> (Athens: University of Georgia Press, Gender and Slavery Series, 2022), 32-79 + <a href="Readings/Naylor_notes.pdf" target="_blank">footnotes</a>.
 - <a href="https://unsilencing-slavery.org/" target="_blank">unsilencing-slavery.org</a>
 
 **Thu Nov 5 — AI for Code and Digital Humanities**
-- Meredith Martin, <a href="https://www-cambridge-org.denison.idm.oclc.org/core/journals/pmla/article/command-lines-for-the-humanities/097F959E6971063D05B085E698354BA2" target="_blank">"Command Lines for the Humanities,"</a> *PMLA* 139, no. 3 (2024): 541–547.
+- Meredith Martin, <a href="https://www-cambridge-org.denison.idm.oclc.org/core/journals/pmla/article/command-lines-for-the-humanities/097F959E6971063D05B085E698354BA2" target="_blank">"Command Lines for the Humanities,"</a> *PMLA* 139, no. 3 (2024): 541–547. <!--Does not work-->
 - Simon Willison, <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/" target="_blank">"Not All AI-Assisted Programming is Vibe Coding (But Vibe Coding Rocks),"</a> simonwillison.net, March 19, 2025.
-- Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.
+- Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.<!--Does not work-->
 - Workshop: Claude Code Web — build a data explorer or network tool.
 
-**Tue Nov 10 — Klein (forthcoming, data viz, day 3)**
-- ⚑ Lauren Klein, "Data: The Society for Effecting the Abolition of the Slave Trade and Responsible Visualization Design" and "Image: William Playfair and the Politics of the 'Simple View'" — forthcoming book, no publisher/page details available yet. Update once the book is out.
+**Tue Nov 10 — TBD**
+
+TBD
 
 **Thu Nov 12 — AI for Textual Analysis**
 - Natalie M. Houston, ⚑ <a href="" target="_blank">"Text Analysis,"</a> *Digital Pedagogy in the Humanities* (keyword entry) — confirm exact URL.
@@ -136,4 +137,4 @@ Not yet assigned.
 
 ---
 
-[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md)
+[Home](index.md) · [Assignments & Grades](assignments-and-grades.md) · [Policies](policies.md) · [Schedule](schedule.md) · [Advanced DH Examples](Readings/CodingWork/AdvancedDHExamples.md) · [Final Project](Assignments/Final_Project.md)
