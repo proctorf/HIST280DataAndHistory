@@ -109,7 +109,9 @@ Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blan
 - Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-index-and-the-vector/" target="_blank">"The Index and the Vector,"</a> *Humane Ingenuity*.<!--Does not work-->
 - Workshop: Claude Code Web — build a data explorer or network tool.
 
-**Tue Nov 10 — TBD**
+**Tue Nov 10 — Final Project Workday
+
+[Finding Dataset](Assignments/Finding_0Datasets.md)
 
 TBD
 
