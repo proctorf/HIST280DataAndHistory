@@ -116,10 +116,11 @@ Prof Proctor's work <a href="Readings/EnslavedSocialNetworks3.pdf" target="_blan
 TBD
 
 **Thu Nov 12 — AI for Textual Analysis**
+
 - Natalie M. Houston, ⚑ <a href="https://www.cambridge.org/core/books/technology-and-literature/distant-reading/6EE7C7F2257902D895E32004CF0AC7DB?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">"Text Analysis,"</a> *Technology and Literature,* ed. by Adam Hammond (Cambridge University Press, 2023), 361–76
 - Ted Underwood, <a href="https://tedunderwood.com/2025/07/02/a-more-interesting-upside-of-ai/" target="_blank">"A More Interesting Upside of AI,"</a> *The Stone and the Shell*, July 2, 2025.
 - Dan Cohen, <a href="https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/" target="_blank">"The Writing Is on the Wall for Handwriting Recognition,"</a> *Humane Ingenuity*.
-- Workshop: Claude Projects/Artifacts, analyzing a corpus of slavery primary sources.
+- Workshop: [Distant Reading with an AI Assistant: Supreme Court Opinions](Assignments/distant-reading-supreme-court.md)
 
 **Tue Nov 17 — Mapping with AI Assistance**
 - Mark Monmonier, <a href="https://www.jstor.org/stable/20061176" target="_blank">"Lying with Maps,"</a> *Statistical Science* 20, no. 3 (2005): 215–222. *(Correction: this is Monmonier, not Deluca & Nelson as listed in earlier drafts of this schedule.)*
