@@ -124,8 +124,8 @@ TBD
 
 **Tue Nov 17 — Mapping with AI Assistance**
 - Mark Monmonier, <a href="https://www.jstor.org/stable/20061176" target="_blank">"Lying with Maps,"</a> *Statistical Science* 20, no. 3 (2005): 215–222. *(Correction: this is Monmonier, not Deluca & Nelson as listed in earlier drafts of this schedule.)*
-- Folkert Karsdorp, Mike Kestemont, and Allen Riddell, <a href="" target="_blank">"Narrating with Maps,"</a> ch. 7 in *Humanities Data Analysis: Case Studies with Python* (Princeton: Princeton University Press, 2021) — uses a dataset of 384 Civil War battles.
-- Workshop: Claude-assisted mapping, building on the two DataFrames labs.
+
+- Workshop: Claude-assisted mapping
 
 **Thu Nov 19 — Free / flex day**
 Not yet assigned.
