@@ -123,7 +123,8 @@ TBD
 - Workshop: [Distant Reading with an AI Assistant: Supreme Court Opinions](Assignments/distant-reading-supreme-court.md)
 
 **Tue Nov 17 — Mapping with AI Assistance**
-- Mark Monmonier, <a href="https://www.jstor.org/stable/20061176" target="_blank">"Lying with Maps,"</a> *Statistical Science* 20, no. 3 (2005): 215–222. *(Correction: this is Monmonier, not Deluca & Nelson as listed in earlier drafts of this schedule.)*
+- Mark Monmonier, <a href="https://www.jstor.org/stable/20061176" target="_blank">"Lying with Maps,"</a> *Statistical Science* 20, no. 3 (2005): 215–222. 
+- Voluntary Workshop: [Map Making with an AI Assistant: Civil War Battles](Assignments/Mapping_Civil_War_Battles.md)
 
 - Workshop: Claude-assisted mapping
 
